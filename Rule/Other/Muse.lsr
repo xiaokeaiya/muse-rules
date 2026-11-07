@@ -1,0 +1,17 @@
+# Meta AI & Muse 分流规则（合并去重版）
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ectolusercontent.com
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN-KEYWORD,metaai
